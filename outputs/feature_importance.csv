@@ -1,0 +1,7 @@
+feature,importance
+num__tenure_months,0.29
+num__monthly_charges,0.18
+num__support_tickets_last_3m,0.17
+cat__contract_type_Month-to-month,0.15
+cat__internet_service_Fiber,0.11
+num__total_charges,0.10

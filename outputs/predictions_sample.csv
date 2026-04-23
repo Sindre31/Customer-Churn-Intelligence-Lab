@@ -1,0 +1,4 @@
+tenure_months,monthly_charges,total_charges,support_tickets_last_3m,contract_type,internet_service,paperless_billing,actual_churn,predicted_churn,churn_probability
+4,92.0,368.0,4,Month-to-month,Fiber,Yes,1,1,0.91
+22,61.5,1353.0,1,One year,Cable,No,0,0,0.18
+15,74.0,1110.0,2,Month-to-month,Cable,Yes,1,1,0.74
