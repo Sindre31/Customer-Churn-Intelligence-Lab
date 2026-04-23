@@ -1,6 +1,6 @@
 # Customer Churn Intelligence Lab
 
-Customer Churn Intelligence Lab is a portfolio data science project focused on predicting customer churn and presenting the results in a structured, business-facing way.
+I built this project to practice the full workflow of a churn prediction problem, from raw data and preprocessing to model evaluation and exported outputs. I wanted the repository to feel closer to a small reusable project than a single notebook submission.
 
 The repository is designed to show an end-to-end workflow rather than just a single notebook.
 
