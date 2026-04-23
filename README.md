@@ -80,13 +80,6 @@ The dataset included in this repository is a small demo dataset created for port
 
 The exported files in `outputs/` should be understood as example outputs from the included sample data. They are useful for demonstrating workflow and repository structure, but they should not be interpreted as results from a large-scale production analysis.
 
-## Why this works as a portfolio project
-
-This project is meant to show that the work can be:
-- structured beyond a notebook
-- tested and reproduced
-- explained in business terms
-- packaged in a way that resembles practical team workflows
 
 ## Possible next steps
 
